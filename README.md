@@ -8,6 +8,8 @@ This project is an IBM Watsonx AI Agent designed to assist with travel planning.
 - Provide weather and event updates 🌦️🎉
 - Stream real-time AI responses using IBM's tools
 
+<p align="left"> <img src="Travel AI Agent Preview .png"/> </p>
+
 ## ⚙️ Technologies Used
 
 - Python
