@@ -7,9 +7,7 @@ This project is an IBM Watsonx AI Agent designed to assist with travel planning.
 - Recommend transportation 🚌✈️🚆
 - Provide weather and event updates 🌦️🎉
 - Stream real-time AI responses using IBM's tools
-
-<p align="left"> <img src="Travel AI Agent Preview .png"/> </p>
-
+<img src="Travel AI Agent Preview .png"/> </p>
 ## ⚙️ Technologies Used
 
 - Python
@@ -24,3 +22,4 @@ This project is an IBM Watsonx AI Agent designed to assist with travel planning.
 - **Model**: `meta-llama/llama-3-2-90b-vision-instruct`
 - **Created by**: Gaurav Mehra
 - **Date**: August 1, 2025
+<img src="Travel AI Agent Deployed.png"/> </p>                     
